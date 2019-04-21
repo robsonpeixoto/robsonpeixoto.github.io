@@ -1,0 +1,30 @@
+{
+  "name": "robsonpeixoto.github.io",
+  "version": "1.0.0",
+  "description": "My blog",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robsonpeixoto/robsonpeixoto.github.io.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "Robson Roberto Souza Peixoto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robsonpeixoto/robsonpeixoto.github.io/issues"
+  },
+  "homepage": "https://github.com/robsonpeixoto/robsonpeixoto.github.io#readme"
+}
